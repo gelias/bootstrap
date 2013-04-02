@@ -2,7 +2,7 @@
 
 umov-bootstrap is a uMov.me customized version of Twitter Bootstrap.
 
-Twitter Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
+Twitter Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat). See also [http://twitter.github.com/bootstrap](http://twitter.github.com/bootstrap)
 
 ## Versioning
 
