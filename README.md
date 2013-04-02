@@ -1,24 +1,8 @@
-<a href="http://getbootstrap.com">
-  <img src="http://twitter.github.com/bootstrap/assets/img/bootstrap-docs-readme.png" width="100px">
-</a>
+# [umov-bootstrap](http://umovme.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
 
-# [Bootstrap v2.3.1](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
+umov-bootstrap is a uMov.me customized version of Twitter Bootstrap.
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
-
-To get started, checkout [http://getbootstrap.com](http://getbootstrap.com)!
-
-
-
-## Quick start
-
-Three quick start options are available:
-
-* [Download the latest release](https://github.com/twitter/bootstrap/zipball/master).
-* Clone the repo: `git clone git://github.com/twitter/bootstrap.git`.
-* Install with Twitter's [Bower](http://twitter.github.com/bower): `bower install bootstrap`.
-
-
+Twitter Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
 
 ## Versioning
 
@@ -37,12 +21,9 @@ And constructed with the following guidelines:
 For more information on SemVer, please visit [http://semver.org/](http://semver.org/).
 
 
-
 ## Bug tracker
 
-Have a bug or a feature request? [Please open a new issue](https://github.com/twitter/bootstrap/issues). Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/necolas/issue-guidelines), written by [Nicolas Gallagher](https://github.com/necolas/).
-
-
+Have a bug or a feature request? [Please open a new issue](https://github.com/umovme/bootstrap/issues). 
 
 ## Community
 
@@ -52,7 +33,6 @@ Keep track of development and community news.
 * Read and subscribe to the [The Official Twitter Bootstrap Blog](http://blog.getbootstrap.com).
 * Have a question that's not a feature request or bug report? [Ask on the mailing list.](http://groups.google.com/group/twitter-bootstrap)
 * Chat with fellow Bootstrappers in IRC. On the `irc.freenode.net` server, in the `##twitter-bootstrap` channel.
-
 
 
 ## Compiling CSS and JavaScript
@@ -85,24 +65,7 @@ Please submit all pull requests against *-wip branches. If your pull request con
 Thanks!
 
 
-
-## Authors
-
-**Mark Otto**
-
-+ [http://twitter.com/mdo](http://twitter.com/mdo)
-+ [http://github.com/mdo](http://github.com/mdo)
-
-**Jacob Thornton**
-
-+ [http://twitter.com/fat](http://twitter.com/fat)
-+ [http://github.com/fat](http://github.com/fat)
-
-
-
 ## Copyright and license
-
-Copyright 2012 Twitter, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.
