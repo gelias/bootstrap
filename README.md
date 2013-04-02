@@ -1,4 +1,4 @@
-# [umov-bootstrap](http://umovme.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
+# [umov-bootstrap](http://umovme.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/umovme/bootstrap.png)](http://travis-ci.org/umovme/bootstrap)
 
 umov-bootstrap is a uMov.me customized version of Twitter Bootstrap.
 
