@@ -27,7 +27,7 @@ Have a bug or a feature request? [Please open a new issue](https://github.com/um
 
 ## Community
 
-Keep track of development and community news.
+Keep track of development and community news. (Official Twitter Bootstrap Channels)
 
 * Follow [@twbootstrap on Twitter](http://twitter.com/twbootstrap).
 * Read and subscribe to the [The Official Twitter Bootstrap Blog](http://blog.getbootstrap.com).
